@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeetCode-123.BestTimeToBuyAndSellStockIII", "LeetCode-123.BestTimeToBuyAndSellStockIII.vcxproj", "{28A190FB-5424-4CA4-A70C-59D72C3BEB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Debug|x64.ActiveCfg = Debug|x64
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Debug|x64.Build.0 = Debug|x64
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Debug|x86.ActiveCfg = Debug|Win32
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Debug|x86.Build.0 = Debug|Win32
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Release|x64.ActiveCfg = Release|x64
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Release|x64.Build.0 = Release|x64
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Release|x86.ActiveCfg = Release|Win32
+		{28A190FB-5424-4CA4-A70C-59D72C3BEB04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BEA0ED7-B89B-4067-86D6-2B78E2EB023B}
+	EndGlobalSection
+EndGlobal
